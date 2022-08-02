@@ -1,6 +1,6 @@
 const fetch = require('isomorphic-unfetch')
 
-let key1 = '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';
+let key1 = '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';
 let key2 = '7kIiTmNtBqj2sOC0S0zxD';
 
 export default async (req, res) => {
